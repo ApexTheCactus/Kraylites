@@ -28,3 +28,8 @@ In the event of an Executor's untimely death, the role of Executor falls to the 
 Their primary form of large-scale government is the Assembly, in which all city-states of a particular planet are represented by their particular Executor, or a representative appointed by said Executor. Laws tend to vary little from city-state to city-state, but the Assembly has the power to handle cases of disagreements between states and facilitate many interactions between states. 
 
 Each Assembly appoints a representative of it's own to the Krayl Grand Senate, mimicking the structure of it's constituent Assemblies, but the Grand Senate represents the Krayl civilization as a whole and may issue edicts empire-wide.
+## History
+Krayl history is a long chain of affairs
+
+## Technology
+In terms of in-game relative terms, the Krayl would have a technology level somewhere between 1.5-1.8, being somewhat more advanced than Humans, comparable in some cases to Korath or Remnant technology. 
